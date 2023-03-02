@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<BODY BGCOLOR="##000000" TEXT="#00FFFF" LINK="#XXYYZZ"
+VLINK="#XXYYZZ" ALINK="#XXYYZZ">
+<p>¡Buenos días y <span class="saludos">bienvenido a</span> mi
+sitio!¿</p>
+
+<html lang="es">  
+<head>    
+    <title>Titulo de la Wed</title>    
+    <meta charset="UTF-8">
+    <meta name="title" content="Título de la WEB">
+    <meta name="description" content="Descripción de la WEB">    
+    <link href="estilos.css" rel="stylesheet">    
+</head>  
+<body>    
+    <header>
+        <h1>¿Que va primero la leche o los cereales?</h1>      
+    </header>    
+    <nav>
+        <a href="#">IR SECCIÓN 2</a>
+        <a href="#">IR SECCIÓN 3</a>
+        <a href="Alumnos/Dani.html">Página de Dani</a>
+    </nav>
+    <section>      
+        <article>
+          <html>
+  <head><title> kkkk </title></head>
+             <TABLE BORDER BGCOLOR="#0000FF", width="20%", height="100">
+  </body>
+   
+   
+
+
+  
+      
+  
+          <TR>
+<TH>Numero de personas que consumen el producto</TH><TH>tipo de cereales </TH><TH> tipo de leche...</TH>
+            <h2>Informacion sobre el tema </h2>
+            <p>Servir el cereal primero te puede permitir medir de mejor manera la porción de leche que debes servir en tu plato y hará una humectación más pareja por todo el cereal. En mi caso prefiero servir primero la leche para prolongar el tiempo que los cereales permanecerán crocantes y esa es la única razón.
+</p>    
+            
+            <IMG SRC="https://static4.abc.es/media/bienestar/2020/10/25/cereales-kU9E--620x349@abc.jpg">
+
+ Este siempre ha sido un debate con distintos defensores de ambas posturas. Sin embargo, según un estudio de la Universidad de Hohenheim, Alemania, una de las dos maneras es más sana que la otra.Puede que por fin hayamos descubierto la manera correcta de tomar los cereales. Según ese estudio y otras razones de sentido común, parece que una de las dos posturas tiene más lógica. No sólo es más práctica y efectiva, sino que se ha averiguado que evita engordar más de la cuenta.</p>Pues sí, así es: Una de las dos formas de servir los cereales en el tazón invita a ingerir una mayor cantidad de azúcares. Puede que lleves toda la vida empleando el método que menos te conviene.
+     <html>
+  <head><title> kkkk </title></head>
+  <body>
+    <TABLE BORDER BGCOLOR="#00FF77", width="20%", height="100">
+   
+
+
+  
+      
+  
+        </article>      
+    </section>
+    <aside>
+        <h3>Testimonios</h3>
+        <p>Me gusta mucho esta página.</p>
+    </aside>
+    <footer>
+        <h4>Redes sociales</h4>
+        <a href="#">Facebook</a>
+        <a href="#">Tiwtter</a>
+        <a href="#">Instagram</a>
+    </footer>
+</body>  
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="estilo.css" />
+<title>Primera prueba de CSS</title>
+</head>
+<body>
+  <!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="estilo.css" />
+<title> Ejemplo css</title>
+<meta name="Generator" content="Quanta + 3.5">
+<meta name="Description" content="Ejemplo de atributos a caracteres
+mediante text-decoration">
+<meta name="Keywords" content="css, ejemplo">
