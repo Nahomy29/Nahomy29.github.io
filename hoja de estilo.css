@@ -1,0 +1,41 @@
+h1
+{
+color: red;
+}
+em
+{
+color: red;
+}
+.saludos
+{
+color: red;
+}
+h1
+{
+text-decoration: blink;
+}
+.subrayado
+{
+text-decoration: underline;
+}
+.cruzado
+{
+text-decoration: line-through;
+}
+.linea_superior
+{
+text-decoration: overline;
+}
+p
+{
+  
+font-size: 10; /* Párrafos de 20 pixeles */
+}
+h1
+{
+font-size: 50px; /* Títulos de 50 pixeles */
+}
+p
+{font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+}
+
